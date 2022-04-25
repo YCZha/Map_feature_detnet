@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>000517.png</filename>
+	<path>D:\Data\DataGenerator\data\test\training\image\000517.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RoadSign_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>480</ymin>
+			<xmax>649</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

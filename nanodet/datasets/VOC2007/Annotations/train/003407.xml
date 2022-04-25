@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>003407.png</filename>
+	<path>D:\Data\DataGenerator\data\test\training\image\003407.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>walkside</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>443</ymin>
+			<xmax>1079</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

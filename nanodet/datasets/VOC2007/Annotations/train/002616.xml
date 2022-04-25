@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>002616.png</filename>
+	<path>D:\Data\DataGenerator\data\test\training\image\002616.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TrafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>153</ymin>
+			<xmax>928</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>
